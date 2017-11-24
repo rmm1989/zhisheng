@@ -1,0 +1,19 @@
+<html>
+<table>
+    <tr>
+        <th>预约门店</th>
+        <th>预约时间</th>
+        <th>预约状态</th>
+        <th>状态管理</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>
+            <button>取消</button>
+            <button>修改</button>
+        </td>
+    </tr>
+</table>
+</html>
