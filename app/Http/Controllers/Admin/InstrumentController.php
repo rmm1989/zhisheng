@@ -16,10 +16,7 @@ class InstrumentController extends Controller
      * 发送短消息
      */
     public function send_message(Request $request){
-        $config = [
-            'accessKeyId' => 'LTAIbYdX7oDbbxJr',
-            'accessKeySecret' => '3cnFp1xkiF2Fp57s4WXHBoLtGhciW1'
-        ];
+       
 
         $mobile = '13673230727';
        $client  = new Client($config);
